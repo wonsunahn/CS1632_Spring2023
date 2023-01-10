@@ -19,7 +19,7 @@
 DUE: January 17 (Tuesday), 2023 Before Class
 
 Please accept Exercise 0 on **GitHub Classroom** using the following link:
-TBD
+https://classroom.github.com/a/RplfE52v
 
 When you accept the assignment, a new GitHub repository will be automatically
 created for you with which you will do backup, versioning, and even submission.
