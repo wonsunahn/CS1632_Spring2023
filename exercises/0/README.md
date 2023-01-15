@@ -229,10 +229,18 @@ done, you should get the correct output:
 sorted: 1 2 3
 ```
 
-Again, you can also run the class using Apache Maven on the terminal:
+Again, you can also run the class using Apache Maven on the terminal.
+
+On MacOS / Linux:
 
 ```
 mvn exec:java -D"exec.args=3 2 1"
+```
+
+On Windows:
+
+```
+mvn exec:java -Dexec.args="3 2 1"
 ```
 
 Currently, it shows an output that looks like the below:
