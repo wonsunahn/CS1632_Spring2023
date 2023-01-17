@@ -15,13 +15,15 @@ Spring Semester 2023 - Exercise 1
 
 * DUE: January 20 (Friday), 2023 11:59 PM
 
-**GitHub Classroom Link:** https://classroom.github.com/a/QXyVEgPM
+~~**GitHub Classroom Link:** https://classroom.github.com/a/QXyVEgPM~~
 
-This is going to be your first group assignment.  When you click on the GitHub
+~~This is going to be your first group assignment.  When you click on the GitHub
 Classroom link, you will be asked to either create a new team or join an
 existing team.  Please use the team name that you listed on the Partnership
 Contract.  If your partner already created a team, join that team rather than
-create a new one.
+create a new one.~~
+
+**UPDATE**: GitHub Classroom seems to be suffering some [temporary backend issues](https://github.com/orgs/community/discussions/43783).  For now, we will have to do without GitHub Classroom.  That means you will have to fork your own repository (please have just **one member** of the team do this).  You can do this by clicking on the "Fork" button at the top right of the course repository (this one).  Please rename the repository so that it follows the naming convention: CS1632_Spring2023_\[TeamName\] (please replace \[TeamName\] with the team name you put on your partnership contract.  Please make sure your repository is set to "Private" before you submit.  On your new forked repository, please go to the "Settings > Collaborators and teams" menu and add your partner as collaborator, as well as me (ID: wonsunahn).  I will ask you later to add the ID of our TA when I obtain it.  You are going to work on this forked repository for the rest of the semester, or until GitHub Classroom is fixed.  Clone the forked repository on to your laptops.  If you are unfamiliar with Git, again please refer to my [Git Tutorial](/lectures//lectures/Using_Git.pdf).
 
 ## Description
 
