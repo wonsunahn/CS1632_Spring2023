@@ -91,7 +91,7 @@ this new repository until you get used to Git operations, without having to
 worry about deleting or overwriting important source code.
 
 Also optionally, you may decide to clone the course repository at
-https://github.com/wonsunahn/CS1632_Fall2022 to your desktop as well.  Since
+https://github.com/wonsunahn/CS1632_Spring2023 to your desktop as well.  Since
 you don't own this repository, you will have to choose the "URL" tab when
 cloning and input that URL.  Also, you will only be able to Pull from the
 repository and not Push.  But if you want to have access to course materials
