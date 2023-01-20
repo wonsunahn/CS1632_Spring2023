@@ -11,7 +11,7 @@
 # CS 1632 - Software Testing
 Spring Semester 2023
 
-* DUE: February 6 (Monday), 2023 before class starts
+* DUE: February 7 (Tuesday), 2023 before class starts
 
 **GitHub Classroom Link:** https://classroom.github.com/a/ftgj0DYO
 
