@@ -1,0 +1,13 @@
+
+*.un~
+*.md~
+*.swp
+*.bat~
+*.sh~
+*.class
+*.txt~
+*.java~
+*.c~
+*.side~
+*.jpf~
+.DS_Store
