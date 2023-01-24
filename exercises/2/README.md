@@ -21,7 +21,7 @@ Spring Semester 2023 - Exercise 2
 
 * DUE: January 27 (Friday), 2023 11:59 PM
 
-**GitHub Classroom Link:** TBD
+**GitHub Classroom Link:** https://classroom.github.com/a/UTK0c5LV
 
 ## Before You Begin
 
