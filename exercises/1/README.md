@@ -331,7 +331,7 @@ discuss.  Once you are both satisfied, you may submit.
 
 ## Extra Credit
 
-* DUE: January 31 (Tuesday ), 2023 before class starts
+* DUE: February 7 (Tuesday ), 2023 before class starts
 
 This submission is optional.  An extra credit of 1 point out of 100 points for
 the entire course will be awarded to the group that finds the most number of
