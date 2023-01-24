@@ -1,7 +1,5 @@
 - [CS 1632 - Software Quality Assurance](#cs-1632---software-quality-assurance)
   * [Before You Begin](#before-you-begin)
-    + [Install Apache Maven](#install-apache-maven)
-    + [Install VSCode](#install-vscode)
   * [Description](#description)
   * [Running the Program](#running-the-program)
   * [Running Unit Tests](#running-unit-tests)
@@ -27,7 +25,7 @@ Spring Semester 2023 - Exercise 2
 
 ## Before You Begin
 
-If you have not done so already, please [install Apache Maven](/exercises/0#install-apache-maven) and [install VSCode](/exercises/0#install-vscode) as
+If you have not done so already, please [install Apache Maven](/exercises/0/README.md#install-apache-maven) and [install VSCode](/exercises/0#install-vscode) as
 instructed in the [Java Assessment Exercise](/exercises/0).
 
 Also, if you are working with a partner, you may also want to familiarize yourself with the Live Share feature on VSCode:
