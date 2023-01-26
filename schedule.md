@@ -41,7 +41,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 ## WEEK 5 (Week of 6 FEB)
 
-* Deliverable 1 due Monday before class
+* Deliverable 1 due Tuesday before class
 
 * Class 1: In-class Exercise 3: Automated System Testing / Release Deliverable 3
   * Prerequisite: Automated System Testing Lecture
@@ -50,7 +50,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 ## WEEK 6 (Week of 13 FEB)
 
-* Deliverable 2 due Monday before class
+* Deliverable 2 due Tuesday before class
 
 * Class 1: Midterm 1 review
 
@@ -70,7 +70,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 ## WEEK 8 (Week of 27 FEB)
 
-* Deliverable 3 due Monday before class
+* Deliverable 3 due Tuesday before class
 
 * Class 1: In-class Supplementary Exercise 2: Property-based Testing
   * Prerequisite: Stochastic and Property-Based Testing Lecture (READING: AFIST, Chapter 18)
