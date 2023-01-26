@@ -17,7 +17,7 @@ Spring Semester 2023
 
 * DUE: February 14, 2023 before start of class
 
-**GitHub Classroom Link:** TBD
+**GitHub Classroom Link:** https://classroom.github.com/a/UkS19OND
 
 ## Deliverable 2
 
