@@ -511,6 +511,14 @@ your last 'mvn test' run at:
 target/site/jacoco/
 ```
 
+Now, if any of your JUnit tests failed, Jacoco will not generate the report.
+I recommend that you makes your tests pass before running it.  If you want
+to force Jacoco to produce the report even with test failures, do:
+
+```
+mvn jacoco:report
+```
+
 The statistics are generated XML (jacoco.xml), CSV (jacoco.csv), and HTML
 (index.html) formats.  The XML and CSV formats are designed to be easily
 readable by later stages of the testing pipeline that automatically generate
