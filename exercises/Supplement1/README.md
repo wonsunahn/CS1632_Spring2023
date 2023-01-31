@@ -20,7 +20,7 @@ Spring Semester 2023 - Supplementary Exercise 1
 
 * DUE: February 3 (Friday ), 2023 11:59 PM 
 
-**GitHub Classroom Link:** TBD
+**GitHub Classroom Link:** https://classroom.github.com/a/MsF70P30
 
 ## Description
 
