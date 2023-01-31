@@ -192,7 +192,7 @@ public class CoffeeMakerQuestTest {
 	 * Preconditions: Player, rooms, and cmq test fixture has been created.
 	 * Execution steps: Call cmq.processCommand("D").
 	 *                  Call cmq.isGameOver().
-	 * Postconditions: Return value of cmq.processCommand("D") is "YOU HAVE NO COFFEE!\nYOU HAVE NO CREAM!\nYOU HAVE NO SUGAR!\n\nYou drink the air, as you have no coffee, sugar, or cream.\nThe air is invigorating, but not invigorating enough. You cannot study.\nYou lose!\n".
+	 * Postconditions: Return value of cmq.processCommand("D") is "YOU HAVE NO COFFEE!\nYOU HAVE NO CREAM!\nYOU HAVE NO SUGAR!\n\nYou drink thin air and can only dream of coffee. You cannot study.\nYou lose!\n".
 	 *                 Return value of cmq.isGameOver() is true.
 	 * </pre>
 	 */
