@@ -370,15 +370,9 @@ guarantee that the event you are waiting for will happen within 3 seconds ---
 we just hope that it does.  And the catch is, we cannot wait for too long
 either because it will slow down testing.
 
-   **You may have to insert the above sleep code in your web driver when you
-test FUN-SORT-BY-COMMENT, between the command to type "catnip" and the command
-to pressing [Enter].**  There is a race condition here because when you type
-"catnip" in the search box, a drop down menu with a list of suggestions
-appears, during which the search box is not responsive to user key strokes.  If
-the <Enter> key stroke arrives when the search box is in this state, the key
-stroke will be ignored.  Waiting for about 3 seconds makes it highly likely
-that the key stroke arrives after this brief period of time when the box is
-unresponsive.
+   Luckily, all our race conditions in Reddit Cats can be solved by simply
+setting the implicit wait time at the beginning as explained above.  We just
+need to wait until elements appear on screen before performing action.
 
 1. Another common problem is that depending on the browser window size,
    certain elements may disappear.  For example, the Reddit site would hide
