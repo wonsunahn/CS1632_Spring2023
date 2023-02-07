@@ -1,4 +1,4 @@
-# CS 1632 Midterm 1 Exam Study Guide - Fall 2022
+# CS 1632 Midterm 1 Exam Study Guide - Spring 2023
 
 The midterm is going to be **open book** but **individual work**.  I will not
 take any questions during the midterm about the material that we learned, just
