@@ -1,4 +1,4 @@
-# CS 1632 Midterm 2 Exam Study Guide - Fall 2022
+# CS 1632 Midterm 2 Exam Study Guide - Spring 2023
 
 The exam will be posted on GradeScope just like before and you will have a 3
 hour span to complete the exam at a time of your own choosing.  Remember that
