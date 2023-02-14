@@ -14,6 +14,9 @@
   * [Testing DeathStar.java](#testing-deathstarjava)
     + [deathStar_shoot.feature](#deathstar-shootfeature)
     + [DeathStarStepDefinitions.java](#deathstarstepdefinitionsjava)
+- [Creating a Maven Project](#creating-a-maven-project)
+  * [Generate project folder from quick start archetype](#generate-project-folder-from-quick-start-archetype)
+  * [Add implementation and test Java classes](#add-implementation-and-test-java-classes)
 
 # Introduction
 
