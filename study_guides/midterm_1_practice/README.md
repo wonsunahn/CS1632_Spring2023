@@ -14,6 +14,9 @@
   * [Testing DeathStar.java](#testing-deathstarjava)
     + [deathStar_shoot.feature](#deathstar-shootfeature)
     + [DeathStarStepDefinitions.java](#deathstarstepdefinitionsjava)
+- [Creating a Maven Project](#creating-a-maven-project)
+  * [Generate project folder from quick start archetype](#generate-project-folder-from-quick-start-archetype)
+  * [Add implementation and test Java classes](#add-implementation-and-test-java-classes)
 
 # Introduction
 
@@ -98,3 +101,71 @@ DeathStarTest.testShootPlanet JUnit test case.
 Add a DeathStarStepDefinitions.java file to the project under src/test/java/
 and implement the step definitions corresponding to the Gherkin steps that
 you used above.
+
+# Creating a Maven Project
+
+You may want to create a Maven project of your own to practice JUnit or
+Cucumber testing, or in preparation for the exam which will contain coding
+questions.  These instructions are adapted from the [Maven in 5 minutes
+Tutorial](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html).
+
+## Generate project folder from quick start archetype
+
+Please execute the following command in the location where you want to
+create your new project folder (replacing the artifactId my-app with
+whatever you want the project name to be):
+
+```
+mvn archetype:generate -DgroupId=edu.pitt.cs -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+```
+
+This will create a folder my-app and under it, you will see a pom.xml file
+and an src/ folder with some sample code under it.  Please edit the pom.xml
+file in the following way.
+
+1. Replace 1.7 with 1.8 for the maven.compiler.source and
+   maven.compiler.target properties near the top.  This will instruct Maven
+to use verion 1.8 of the Java compiler.
+
+1. Replace the dependencies section (which currently contains only JUnit
+   4.11) with the following block:
+
+   ```
+   <dependencies>
+           <dependency>
+                   <groupId>io.cucumber</groupId>
+                   <artifactId>cucumber-java</artifactId>
+                   <version>6.7.0</version>
+                   <scope>test</scope>
+           </dependency>
+
+           <dependency>
+                   <groupId>io.cucumber</groupId>
+                   <artifactId>cucumber-junit</artifactId>
+                   <version>6.7.0</version>
+                   <scope>test</scope>
+           </dependency>
+
+           <dependency>
+                   <groupId>junit</groupId>
+                   <artifactId>junit</artifactId>
+                   <version>4.13</version>
+                   <scope>test</scope>
+           </dependency>
+
+           <dependency>
+                   <groupId>org.mockito</groupId>
+                   <artifactId>mockito-all</artifactId>
+                   <version>1.10.19</version>
+           </dependency>
+   </dependencies>
+   ```
+
+   This allows you to use JUnit, Mockito, and Cucumber testing in your
+project.
+
+## Add implementation and test Java classes
+
+Now, you are ready to add any Java files or Gherkin feature files under the
+src/ directory.  For starters, try copying over files from this Midterm 1
+Practice project.
