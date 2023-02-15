@@ -121,9 +121,13 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 ## WEEK 14 (Week of 10 APR)
 
-* Class 1: Guest Lecture (TBD)
+* April 11, 1:00PM – 2:15PM: [NetApp](https://www.netapp.com/) guest lecture
 
-* Class 2: Guest Lecture (TBD)
+* April 11, 4:00PM - 5:15PM: [Deloitte](https://www.deloitte.com/) guest lecture
+
+* April 13, 1:00PM – 2:15PM: [BNY Mellon](https://www.bnymellon.com/) guest lecture
+
+* April 13, 4:00PM - 5:15PM: [Aerotech](https://www.aerotech.com/) guest lecture
 
 ## WEEK 15 (Week of 17 APR)
 
