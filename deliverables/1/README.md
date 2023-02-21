@@ -142,14 +142,13 @@ the following:
    The program coffeemaker.jar is installed in the current directory.
    The file rooms.config is installed in the current directory.
    The game has been launched using the commandline: "java -jar coffeemaker.jar".
-   The player has gathered coffee, cream, and sugar through the steps:
      ...
 
    EXECUTION STEPS:
      1. Type "L [Enter]" at prompt 
      2. Type "N [Enter]" at prompt 
      ... all the steps required to collect all items ...
-     1. Type "D [Enter]" at prompt 
+     10. Type "D [Enter]" at prompt 
    ```
 
    As a side note, note the rooms.config file in the preconditions.  By
