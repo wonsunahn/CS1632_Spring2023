@@ -96,7 +96,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 ## WEEK 11 (Week of 20 MAR)
 
 * Deliverable 4 due Tuesday before class
-* 
+
 * Class 1: In-class Exercise 5: Static Analysis Part 1
   * Prerequisite: Static Analysis Part 1 Lecture
 
