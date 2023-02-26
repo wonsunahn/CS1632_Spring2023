@@ -24,7 +24,7 @@ Spring Semester 2023 - Supplementary Exercise 2
 
 * DUE: March 3 (Friday), 2023 11:59 PM 
 
-**GitHub Classroom Link:** TBD
+**GitHub Classroom Link:** https://classroom.github.com/a/slVZ-mRX
 
 ## Description
 
@@ -496,7 +496,7 @@ https://pholser.github.io/junit-quickcheck/site/1.0/usage/complex-types.html
 
 * DUE: March 21 (Tuesday), 2023 before start of class
 
-**GitHub Classroom Link:** TBD
+**GitHub Classroom Link:** https://classroom.github.com/a/aEAlBhzT
 
 This extra credit is worth 1 point out of 100 points for the entire course.
 Note that you need to get 100/100 on the autograder to get credit.  Partial
