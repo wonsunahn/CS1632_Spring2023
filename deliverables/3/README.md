@@ -117,7 +117,7 @@ deliverable).  You may want to do some exploratory testing first to see what
 kind of issues are found before writing automated tests for them.  Think of
 equivalence classes, edge cases and corner cases as we learned so far.
 
-Next, write three additional test cases that fail and uncover those three
+Next, write three additional Selenium test cases that fail and uncover those three
 defects.  Name these test cases in this format: DEFECT[N]-[Requirement Name],
 where N is 1, 2, or 3.  For example,  if you found 2 defects related to the
 FUN-RENT requirement and 1 defect related to the FUN-FEED-A-CAT requirement, you
