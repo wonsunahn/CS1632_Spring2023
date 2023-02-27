@@ -125,7 +125,7 @@ IDENTIFIER: TEST-11-GREET-A-CAT-WITH-NAME
 TEST CASE: Check that greeting Jennyanydots results in "Meow!"s in the Greet-A-Cat page.
 PRECONDITIONS: None.
 EXECUTION STEPS:
-1. Navigate to the `/greet-a-cat/Jennyanydots` URL be opening on browser.
+1. Navigate to the `/greet-a-cat/Jennyanydots` URL by opening on browser.
 POSTCONDITIONS: 
 1. The text "Meow! from Jennyanydots." appears on the page.
 ```
